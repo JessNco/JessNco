@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jessica
+- 👋 Hi, I’m Jess
 - 👀 I’m interested in messing with code
 - 🌱 I’m currently learning rust,python
 - 💞️ I’m looking to collaborate on existing
